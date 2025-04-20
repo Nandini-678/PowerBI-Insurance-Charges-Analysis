@@ -25,3 +25,5 @@ This project features an interactive Power BI dashboard that visualizes and pred
 
 ## Screenshots
 ![Dashboard Preview](Dashboard.png)
+![Prediction Dashboard Preview](PredictionDashboard.png)
+
